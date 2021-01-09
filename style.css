@@ -3,3 +3,22 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+img {
+  align-content : center;
+}
+
+nav > a {
+  align-items: center;
+  padding: 10px;
+  background-color: grey;
+}
+
+.featured-property p {
+  text-align: : center;
+  width: 800px;
+}
