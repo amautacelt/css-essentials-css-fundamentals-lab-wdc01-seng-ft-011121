@@ -10,6 +10,7 @@ header {
 
 img {
   margin: auto;
+  display: block;
 }
 
 nav > a {
