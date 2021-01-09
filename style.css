@@ -21,10 +21,10 @@ nav > a {
 
 figcaption {
   text-align: center;
+  font-size: 10px;
 }
 
 #featured-property > p {
-  font-size: 10px;
   margin: auto;
   text-align: center;
   width: 800px;
